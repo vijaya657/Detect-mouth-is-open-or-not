@@ -2,12 +2,5 @@
 Detecting when a human's mouth is open
 
 
-
-[dlib shape predictor](https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat)
-
-![sample gif](./video/mouth_open.gif)
-
-![sample gif](./video/facial_landmarks_68markup-768x619.jpg)
-
-
-![trump-mouth](./video/out_trump.gif)
+shape_predictor_68_face_landmarks:
+https://drive.google.com/file/d/1_YoOZJaAdHD9eFhPknOIKR6V5bf9A4pt/view?usp=sharing
